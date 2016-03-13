@@ -1,0 +1,16 @@
+Script started on 2016年03月13日 (週日) 21時16分22秒
+]0;F74046111@2015cpp: ~F74046111@2015cpp:~$ whoami;pwd
+F74046111
+/home/F74046111
+]0;F74046111@2015cpp: ~F74046111@2015cpp:~$ git config -l
+user.name=maple159510
+user.email=kcy070586@gmail.com
+]0;F74046111@2015cpp: ~F74046111@2015cpp:~$ gitclone lone[C[1Plone clone[C[C[C[C[C https://github.com/maple159510/lab1.git
+Cloning into 'lab1'...
+remote: Counting objects: 5, done.[K
+remote: Compressing objects:  50% (1/2)   [Kremote: Compressing objects: 100% (2/2)   [Kremote: Compressing objects: 100% (2/2), done.[K
+remote: Total 5 (delta 0), reused 0 (delta 0), pack-reused 0[K
+Unpacking objects:  20% (1/5)   Unpacking objects:  40% (2/5)   Unpacking objects:  60% (3/5)   Unpacking objects:  80% (4/5)   Unpacking objects: 100% (5/5)   Unpacking objects: 100% (5/5), done.
+]0;F74046111@2015cpp: ~F74046111@2015cpp:~$ exit
+
+Script done on 2016年03月13日 (週日) 21時18分11秒
